@@ -18,7 +18,7 @@ git clone "https://github.com/Noobsiecoder/my-team-page.git"
 ```
 
 ## Demo link
-[404 Error page demo link](https://noobsiecoder.github.io/my-team-page/)
+[My team page demo link](https://noobsiecoder.github.io/my-team-page/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
